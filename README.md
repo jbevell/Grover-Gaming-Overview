@@ -1,4 +1,30 @@
 <h1>Grover Gaming Development and QA Titles</h1>
+<i>Note: Unfortunately, some games have no public imagery avaialable. I've added placeholders for now.</i>
+
+<h2>Development<h2>
+<h3><i>Full Development Cycle</i></h3>
+<p>&emsp;These are games that I completed development on from start to finish.</p>
+<table>
+	<tr>
+    	<td><img src="https://grovergaming.com/wp-content/uploads/2019/05/KING-KONG.png" alt="King Kong" width="359" height="245"/></td>
+        <td><img src="" alt="Hawaiian Keno" width="359" height="245"/></td>
+    </tr>
+</table>
+
+<h3><i>Converted to a New Market</i></h3>
+<p>&emsp;Games sometimes need to be changed to fit with the laws or game-styles of a different region. It might be as simple as just dropping in a new component or as complex as reworking entire pre-existing features.</p>
+<table>
+	<tr>
+    	<td><img src="https://grovergaming.com/wp-content/uploads/2019/02/MIDNIGHT-WOLF.png" alt="Midnight Wolf" width="359" height="245"/></td>
+        <td><img src="https://banillagames.com/wp-content/uploads/2023/10/banilla-game-logo-tile-classic-heat.jpg" alt="Classic Heat" width="359" height="245"/></td>
+        <td><img src="https://grovergaming.com/wp-content/uploads/2019/02/CAPTAIN-CALAMARI.jpg" alt="Captain Calamari" width="359" height="245"/></td>
+    </tr>
+    <tr>
+    	<td><img src="https://banillagames.com/wp-content/uploads/2023/10/banilla-game-logo-tile-nut-shack.jpg" alt="Nut Shack" width="359" height="245"/></td>
+        <td><img src="https://banillagames.com/wp-content/uploads/2023/10/banilla-game-logo-tile-great-american-racing.jpg" alt="Great American Racing" width="359" height="245"/></td>
+    </tr>
+</table>
+
 <h2>Quality Assurance</h2>
 <p>I have had a hand in manual or automated testing, writing tests, or leading testing for one or more versions of these games.</p>
 <table>
