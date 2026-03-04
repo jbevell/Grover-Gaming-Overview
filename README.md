@@ -6,7 +6,7 @@
 <p>&emsp;These are games that I completed development on from start to finish.</p>
 <table>
 	<tr>
-    	<td><img src="" alt="Hawaiian Keno" width="252" height="172"/></td>
+    	<td><img src="Images/HawaiianKenoPlaceholder.png" alt="Hawaiian Keno" width="252" height="172"/></td>
     	<td><img src="https://grovergaming.com/wp-content/uploads/2019/05/KING-KONG.png" alt="King Kong" width="252" height="172"/></td>
     </tr>
 </table>
@@ -35,7 +35,7 @@
     </tr>
     <tr>
     	<td><img src="https://grovergaming.com/wp-content/uploads/2019/02/CAPTAIN-CALAMARI.jpg" alt="Captain Calamari" width="252" height="172"/></td>
-        <td><img src="" alt="Casino Keno" width="252" height="172"/></td>
+        <td><img src="Images/CasinoKenoPlaceholder.png" alt="Casino Keno" width="252" height="172"/></td>
         <td><img src="https://banillagames.com/wp-content/uploads/2023/10/banilla-game-logo-tile-classic-heat.jpg" alt="Classic Heat" width="252" height="172"/></td>
     </tr>
     <tr>
@@ -45,7 +45,7 @@
     </tr>
 	<tr>
     	<td><img src="https://grovergaming.com/wp-content/uploads/2019/05/DR-JEKYLL.png" alt="The Curious Case of Dr Jekyll & Mr Hyde" width="252" height="172"/></td>
-        <td><img src="" alt="Golden Koi Garden" width="252" height="172"/></td>
+        <td><img src="Images/GoldenKoiGardenPlaceholder.png" alt="Golden Koi Garden" width="252" height="172"/></td>
         <td><img src="https://banillagames.com/wp-content/uploads/2023/10/banilla-game-logo-tile-Gopher-Gold.jpg" alt="Gopher Gold" width="252" height="172"/></td>
     </tr>
 	<tr>
@@ -89,7 +89,7 @@
         <td><img src="https://banillagames.com/wp-content/uploads/2023/09/banilla-game-logo-tile-Top-Shot-Golf.jpg" alt="Top Shot Golf" width="252" height="172"/></td>
     </tr>
     <tr>
-    	<td><img src="" alt="Triple Charged Keno" width="252" height="172"/></td>
+    	<td><img src="Images/TripleChargedKenoPlaceholder.png" alt="Triple Charged Keno" width="252" height="172"/></td>
         <td><img src="https://banillagames.com/wp-content/uploads/2024/08/game-logo-bg-WildAces.jpg" alt="Wild Aces" width="252" height="172"/></td>
         <td><img src="https://banillagames.com/wp-content/uploads/2023/10/banilla-game-logo-tile-VIP-lounge.jpg" alt="VIP Lounge" width="252" height="172"/></td>
     </tr>
