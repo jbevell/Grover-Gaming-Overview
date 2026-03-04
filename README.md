@@ -46,6 +46,7 @@
 	<tr>
     	<td><img src="https://banillagames.com/wp-content/uploads/2024/08/game-logo-bg-TheClaw.jpg" alt="The Claw" width="252" height="172"/></td>
         <td><img src="https://banillagames.com/wp-content/uploads/2024/08/game-logo-bg-WildAces.jpg" alt="Wild Aces" width="252" height="172"/></td>
+        <td><img src="https://grovergaming.com/wp-content/uploads/2023/04/GameThumbnail_CollegeRivalsOhio-400x273.jpg" alt="College Rivals" width="252" height="172"/></td>
     </tr>
 	<tr>
     	<td><img src="https://banillagames.com/wp-content/uploads/2023/09/banilla-game-logo-tile-Terror-Tavern.jpg" alt="Terror Tavern" width="252" height="172"/></td>
@@ -70,6 +71,7 @@
     <tr>
     	<td><img src="https://grovergaming.com/wp-content/uploads/2019/02/RED-HOT-RICHES.png" alt="Red Hot Riches" width="252" height="172"/></td>
         <td><img src="https://grovergaming.com/wp-content/uploads/2019/02/MIDNIGHT-WOLF.png" alt="Midnight Wolf" width="252" height="172"/></td>
+        <td><img src="https://grovergaming.com/wp-content/uploads/2023/04/GameThumbnail_SuperOilRush-400x273.jpg" alt="Super Oil Rush" width="252" height="172"/></td>
     </tr>
     <tr>
     	<td><img src="https://grovergaming.com/wp-content/uploads/2019/05/DR-JEKYLL.png" alt="The Curious Case of Dr Jekyll & Mr Hyde" width="252" height="172"/></td>
