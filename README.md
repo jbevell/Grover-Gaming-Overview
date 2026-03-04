@@ -6,7 +6,7 @@
 <p>&emsp;These are games that I completed development on from start to finish.</p>
 <table>
 	<tr>
-    	<td><img src="https://grovergaming.com/wp-content/uploads/2019/05/KING-KONG.png" alt="King Kong" width="359" height="245"/></td>
+    	<td><img src="https://grovergaming.com/wp-content/uploads/2019/05/KING-KONG.png" alt="King Kong" width="252" height="172"/></td>
         <td><img src="" alt="Hawaiian Keno" width="359" height="245"/></td>
     </tr>
 </table>
