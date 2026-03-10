@@ -1,5 +1,5 @@
 <h1>Grover Gaming Development and QA Titles</h1>
-<i>Note: Unfortunately, some games have no public imagery avaialable. I've added placeholders for now.</i>
+<i>Note: Unfortunately, some games have no public imagery available. I've added placeholders for now.</i>
 
 <h2>Development</h2>
 <h3><i>Full Development Cycle</i></h3>
